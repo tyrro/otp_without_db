@@ -1,8 +1,6 @@
 # OtpWithoutDb
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/otp_without_db`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem is the ruby implementation of https://github.com/theanam/otp-without-db
 
 ## Installation
 
